@@ -1,4 +1,4 @@
-class LightningSound {
+class LightningDistance {
 
   /* Compute the distance to a lightning, 
   the sound moves at 1100 feet/second and
